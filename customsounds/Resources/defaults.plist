@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>kEnabled</key>
+		<false/>
+		<key>kCustomCharge</key>
+		<false/>
+		<key>kChargeSound</key>
+		<string>None</string>
+		<key>kCustomKeyboard</key>
+		<false/>
+		<key>kKeyboardSound</key>
+		<string>None</string>
+		<key>kCustomLock</key>
+		<false/>
+		<key>kLockSound</key>
+		<string>None</string>
+		<key>kCustomPasscode</key>
+		<false/>
+		<key>kPasscodeSound</key>
+		<string>None</string>
+		<key>kCustomUnlock</key>
+		<false/>
+		<key>kUnlockSound</key>
+		<string>None</string>
+	</dict>
+</plist>
